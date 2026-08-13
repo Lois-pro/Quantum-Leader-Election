@@ -21,7 +21,7 @@ Python scripts for symbolic computation of Tani-Kobayashi-Matsumoto (TKM12) quan
 
 ```bash
 pip install sympy numpy
-
+```
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Élection Quantique - Outils Symboliques
@@ -47,3 +47,4 @@ Scripts Python pour le calcul formel de l'algorithme d'élection quantique de Ta
 
 ```bash
 pip install sympy numpy
+```
